@@ -3,3 +3,5 @@ scm-api:latest
 git-client:latest
 git:latest
 greenballs:latest
+bitbucket:latest
+github:latest
